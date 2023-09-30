@@ -12,6 +12,5 @@ public class Main {
         // Exercise 3
         Converter Ex_3 = new Converter();
         Ex_3.converter();
-
     }
 }
